@@ -2,6 +2,9 @@
 <h3 align="center">I'm an ambitious Computer Scientist based in Dublin, Ireland</h3>
 
 
+<p align="center">
+<img src="https://github.com/Mattodonnello/Mattodonnello/blob/main/Hii.jpg?raw=true" width="400" height="400">
+    
 ## 🙋‍♂️ About Me
 
 - 📚 Currently in my third year of [UCD BSc Computer Science with Data Science ](https://www.myucd.ie/courses/science/computer-science-data-science/)
