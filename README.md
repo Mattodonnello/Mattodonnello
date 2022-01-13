@@ -1,20 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matthew</h1>
 <h3 align="center">I'm a passionate Computer Scientist based in Dublin, Ireland</h3>
 
-
-<p align="center">
-<img src="https://github.com/Mattodonnello/Mattodonnello/blob/main/Greeting.jpg?raw=true" width="400" height="400">
-    
-## 🙋‍♂️ About Me
-
+## About Me: <img align="right" width="350" height="320" src="https://github.com/Mattodonnello/Mattodonnello/blob/main/Greeting.jpg?raw=true"></a>
 - 📚 Currently in my third year of [UCD BSc Computer Science with Data Science ](https://www.myucd.ie/courses/science/computer-science-data-science/)
-
 - 🌱 I’m currently learning **Programming for Big Data, Network Analysis and Information Visualisation**
-
 - 💻 I enjoy testing my coding skills on HackerRank and working collaboratively on projects
-
 - ⚽ In my free time, I play football as captain of a UCD Superleague team.
-
 - 📧 You can contact me via my email matthew.odonnell@ucdconnect.ie
 
 ## Connect with me:
