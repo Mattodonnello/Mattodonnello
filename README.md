@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matthew</h1>
-<h3 align="center">I'm an ambitious Computer Scientist based in Dublin, Ireland</h3>
+<h3 align="center">I'm a passionate Computer Scientist based in Dublin, Ireland</h3>
 
 
 <p align="center">
-<img src="https://github.com/Mattodonnello/Mattodonnello/blob/main/Hii.jpg?raw=true" width="400" height="400">
+<img src="https://github.com/Mattodonnello/Mattodonnello/blob/main/Greeting.jpg?raw=true" width="400" height="400">
     
 ## 🙋‍♂️ About Me
 
