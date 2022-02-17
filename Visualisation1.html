@@ -1,0 +1,51 @@
+<table cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td><strong>Name:&nbsp;</strong></td>
+<td>Matthew O'Donnell</td>
+</tr>
+<tr>
+<td><strong>Student Number:</strong></td>
+<td>18439746</td>
+</tr>
+<tr>
+<td><strong>Dataset description:</strong></td>
+<td>
+<p><a href="https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv" target="_blank" rel="noopener">Spotify Tracks Dataset</a>.</p>
+<p>This data set contains Spotify songs information and statistics up to January 21st of 2020. The dataset provides details regarding the tracks name, artist, playlist genre, album, danceability, energy and many other details.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Initial questions</strong></td>
+<td>How does the energy of a track compare with it's loudness? Is there a direct correlation between energy and loudness?</td>
+</tr>
+</tbody>
+</table>
+<p><img src="C:\Users\matth\Downloads\Vis1.png" alt="Vis1" /></p>
+<p><a href="file:///C:/Users/matth/Downloads/Vega%20Editor.html">Energy-vs-Loudness-Vega-Link</a></p>
+<p>&nbsp;</p>
+<table cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td><strong>Description:&nbsp;</strong></td>
+<td>This scatterplot shows the relationship between the energy and loudness of Spotify tracks over a popularity of 70. Each point represents a track and hovering over one of these points will give you the name of that track. Tracks discussed in text are indicated using large triangles.</td>
+</tr>
+<tr>
+<td><strong>Insight:</strong></td>
+<td>There is a clear correlation between energy and loudness - in general as loudness increases so does energy. This correlation is not completely perfect as there are some tracks high in energy that are not loud.
+<p>There is one extreme outlier in the dataset, highlighted with a triangle. The track Florida rain storm by Mother Nature Sound FX is very low in loudness and still relatively high in energy. This is not an error in the dataset as the track is clearly meant as a form of quiet but frantic relaxation. The other outlier, Forest Rain, is also an outlier as it is a similar kind of meditative track.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td><strong>Design considerations</strong></td>
+<td>I have used a scatterplot as it is a very effective way to show the relationship between two quantitative variables, taking advantage of our ability to accurately perceive variation in both horizontal and vertical position. I encoded track names in tooltips so it is possible to hover over a point to see the artist name associated with the track.
+<p>The chart suffers from overplotting a bit so I added the interactive function of clicking on a tracks name to highlight in red all the other tracks that fall under the same playlist genre of that track, while tracks not under that genre would be in grey.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Data filtering and transformation:&nbsp;</strong></td>
+<td>Only tracks with popularity over 70 are shown.</td>
+</tr>
+</tbody>
+</table>
+
