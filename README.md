@@ -3,7 +3,7 @@
 
 ## About Me: <img align="right" width="350" height="320" src="https://github.com/Mattodonnello/Mattodonnello/blob/main/Greeting.jpg?raw=true"></a>
 - 📚 Currently in my fourth and final year of [UCD BSc Computer Science with Data Science ](https://www.myucd.ie/courses/science/computer-science-data-science/)
-- 🌱 I’m currently learning **Machine Learning, Data Mining and Cloud Computinh**
+- 🌱 I’m currently learning **Machine Learning, Data Mining and Cloud Computing**
 - 💻 I enjoy working collaboratively on projects
 - ⚽ In my free time, I play football as captain of a UCD Superleague team.
 - 📧 You can contact me via my email matthew.odonnell@ucdconnect.ie
